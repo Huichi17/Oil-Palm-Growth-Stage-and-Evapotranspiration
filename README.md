@@ -9,7 +9,7 @@ Required climate variables :  1. Net Radiation
                               5. Maximum Temperature
                               6. Wind Speed
                               
- Reference:
+Reference:
 Allen RG, Pereira LS, Raes D, Smith M. 1998. Crop evapotranspiration guidelines for computing crop water requirements-FAO irrigation and drainage paper 56.
 Djufry F, Handoko, Koesmaryono Y. 2000. Model fenologi tanaman kelapa sawit. Jurnal Agromet. 15(1) : 33-42.
 Handoko. 1994. Dasar Penyusunan dan Aplikasi Model Simulasi Komputer untuk Pertanian. Bogor (ID): IPB Press.
